@@ -35,12 +35,12 @@ Systems, Aalto University** (Expected Graduation on 2024)
 
 
 ## Publications
-1. Bachelor Thesis in cooperation with Motiva Oy.
+1. Bachelor Thesis in cooperation with [Motiva Oy](https://www.motiva.fi/yritykset/yhteishankkeet/sahkoistyminen_hukkalammot_ja_lampopumput_teollisuudessa_-yhteishanke).
    Heat pump control systems in varying situations  |  Lämpöpumppujen ohjausjärjestelmät vaihtelevissa tilanteissa.
-   [Bachelor Thesis](https://www.motiva.fi/yritykset/yhteishankkeet/sahkoistyminen_hukkalammot_ja_lampopumput_teollisuudessa_-yhteishanke)
+   [Bachelor Thesis](https://www.motiva.fi/files/21017/Lampopumppujen_ohjausjarjestelmat_vaihtelevissa_tilanteissa_-_Emil_Karlsson_Kandidaatintyo.pdf)
 
 ## Contact Information
 
-- **[Email](karlsson.emil99@gmail.com )**
+- **Email: karlsson.emil99@gmail.com**
 - **[LinkedIn](https://www.linkedin.com/in/emil-karlsson-a20058159/)** 
 - **[GitHub](https://github.com/emilkarlsson1)** 
