@@ -36,15 +36,15 @@ Systems, Aalto University** (Expected Graduation on 2024)
 
 - C++
 - Python
-- Codesys (IEC 61131)
 - Scala
 - Matlab
-- CAD
+- Codesys (IEC 61131)
 - EcoStructure Automation Expert (IEC 61499)
+- Visual Components
 - OPC UA
+- CAD
 - CADMATIC Electrical
 - Solid Edge
-- Visual Components
 
 
 ## Publications
