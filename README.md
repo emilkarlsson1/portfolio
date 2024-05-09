@@ -16,8 +16,19 @@ Systems, Aalto University** (Expected Graduation on 2024)
 
 ## Projects
 
-### [Project Title 1]
+### Python
+  - [CS-A1111 Basics in Programming Y1](https://github.com/emilkarlsson1/school/tree/main/CS-A1111%20Basics%20in%20Programming%20Y1)
+  - [CS-A1112 Basics in Programming Y2](https://github.com/emilkarlsson1/school/tree/main/CS-A1121%20Basics%20in%20Programming%20Y2)
+  - [CS-A1150 Tietokannat](https://github.com/emilkarlsson1/school/tree/main/CS-A1150%20Tietokannat)
+    
+### Scala
+  - [CS-A1110 Programming 1](https://github.com/emilkarlsson1/school/tree/main/CS-A1110%20Programming%201)
+  - [CS-A1120 Programming 2](https://github.com/emilkarlsson1/school/tree/main/CS-A1120%20Programming%202)
+  - [CS-A1140 Data Structures and Algorithms](https://github.com/emilkarlsson1/school/tree/main/CS-A1140%20Data%20Structures%20and%20Algorithms)
 
+### C/C++
+  - ELEC-A7151 Object oriented programming with C++
+  - CS-E4580 Programming Parallel Computers D
 
 ## Skills
 
