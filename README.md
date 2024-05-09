@@ -14,7 +14,8 @@ Systems, Aalto University** (Expected Graduation on 2024)
 - Research Assistant (master thesis), Aalto University (12.2.2024 - Present)
   - Master's thesis: Increasing the adoption of submetering to improve energy efficiency in buildings
 
-## Projects
+## Programming projects
+- During my studies at Aalto University
 
 ### Python
   - [CS-A1111 Basics in Programming Y1](https://github.com/emilkarlsson1/school/tree/main/CS-A1111%20Basics%20in%20Programming%20Y1)
