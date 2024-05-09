@@ -1,6 +1,7 @@
-# Master Student
+# Master's Student
 
 ## About Me
+I am a dedicated and enthusiastic Master's student with a passion for industry and building automation. Throughout my academic journey, I have acquired advanced knowledge and skills in programming, automation and building systems. I am committed to continuous learning and strive to contribute meaningfully to my academic and professional life.
 
 
 ## Education
@@ -29,7 +30,7 @@ Systems, Aalto University** (Expected Graduation on 2024)
 
 ### C/C++
   - ELEC-A7151 Object oriented programming with C++
-  - CS-E4580 Programming Parallel Computers D
+  - [CS-E4580 Programming Parallel Computers D](https://github.com/emilkarlsson1/school/tree/main/CS-E4580%20Programming%20Parallel%20Computers%20D)
 
 ## Skills
 
