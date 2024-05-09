@@ -29,7 +29,7 @@ Systems, Aalto University** (Expected Graduation on 2024)
   - [CS-A1140 Data Structures and Algorithms](https://github.com/emilkarlsson1/school/tree/main/CS-A1140%20Data%20Structures%20and%20Algorithms)
 
 ### C/C++
-  - ELEC-A7100 Basic Course in C programming
+  - [ELEC-A7100 Basic Course in C programming](https://github.com/emilkarlsson1/school/tree/main/ELEC-A7100%20Basic%20Course%20in%20C%20programming)
   - ELEC-A7151 Object oriented programming with C++
   - [CS-E4580 Programming Parallel Computers D](https://github.com/emilkarlsson1/school/tree/main/CS-E4580%20Programming%20Parallel%20Computers%20D)
 
